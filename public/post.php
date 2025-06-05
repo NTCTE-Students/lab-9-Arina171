@@ -197,7 +197,6 @@ if ($auth -> check() && isset($_GET['where'])) {
                         <?php } ?>
                         </div>
                         <button type="submit" class="inline-flex items-center py-2.5 px-4 text-xs font-medium text-center text-white bg-cyan-700 rounded-lg focus:ring-4 focus:ring-cyan-200 hover:bg-cyan-800 cursor-pointer">
-                            Прокомментировать
                         </button>
                     </form>
                 <?php } else { ?>
